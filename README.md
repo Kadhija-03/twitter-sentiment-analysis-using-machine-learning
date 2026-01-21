@@ -69,5 +69,5 @@ into positive and negative categories.
 ---
 
 
-git clone https://github.com/your-username/twitter-sentiment-analysis.git
+
 
